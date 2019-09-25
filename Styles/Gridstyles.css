@@ -1,0 +1,38 @@
+﻿.Gridview {
+    border: solid 1px #477F56;
+    min-width: 80%;
+    position: center;
+}
+
+.GridHeader {
+    background-color: #477F56;
+    font-family: Raleway, sans-serif;
+    color: white;
+    border: solid 1px #477F56;
+    height: 25px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.GridRows {
+    background-color: #fff;
+    font-family: raleway, sans-serif;
+    font-size: 14px;
+    color: #000;
+    min-height: 25px;
+    text-align: left;
+    border: solid 1px #477F56;
+}
+
+.DropwdownList {
+    font-family: raleway, sans-serif;
+    font-size: 12px;
+    position: center;
+}
+
+.EmptyGrid {
+    background-color: #fff;
+    text-align: center;
+}
+
+

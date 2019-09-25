@@ -1,0 +1,79 @@
+﻿body {
+    background-image: url("../Pictures/thumbnail_Background_1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.HeaderText hr {
+    color: #477F56;
+    width: 127%;
+}
+
+.HeaderText h2 {
+    color: #477F56;
+    width: 100%;
+}
+
+.DashboardItem {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    display: table-cell;
+}
+
+.Box {
+    text-align: left;
+    width:  250px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 3px;
+    border: 0;
+    position: relative;
+    background-color: ghostwhite;
+    padding: 15px 0 0 15px;
+    border-spacing: 5px;
+    margin-left: 15px;
+}
+
+.BoxData {
+    font-size: 32px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+    border: 0;
+    padding: 15px;
+}
+
+.BoxData .fa {
+    position: absolute;
+    right: 10px;
+    bottom: -1px;
+    font-size: 3em;
+    opacity: 0.1;
+}
+
+.BoxData h3 {
+    float: left;
+    font-size: 18px;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    top: -11px;
+    left: 0px;
+    color: dimgray;
+    font-family: Raleway, sans-serif;
+}
+
+.BoxData p {
+    padding-top: 20px;
+    font-size: 28px;
+    color: #477F56;
+
+}
+
+h4 {
+    color: #477F56;
+}
